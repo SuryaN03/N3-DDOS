@@ -3,7 +3,8 @@ This Tool Is Supporting For DDOS Activities.
 The Way Is Typing Command :  $ python2 islddos.py 
 ip port 
 packet 
-example:  $python2 is n3.py 104.27.190.77 8080 100  IP target: 10.79.224.94 port: 8080 packet:100  
+example:
+$python2 is n3.py 104.27.190.77 8080 100  IP target: 10.79.224.94 port: 8080 packet:100  
 
         `````  `.:::-.``
     `-/++//////o+/:-----..`             `....    `...  `...........`
